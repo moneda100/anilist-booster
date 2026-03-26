@@ -1,6 +1,6 @@
 # anilist-booster
 **AniList Booster** es una aplicación de escritorio desarrollada en Python para gestionar y seguir tus listas de anime y manga de forma eficiente, utilizando la API de AniList.
-
+https://github.com/moneda100/anilist-booster/blob/f51ce3cf9b401f1ab04beb1e9d32ec1aac02dacf/ejemplo%20visual.png 
 ## 🚀 Características
 
 - 📋 **Gestión de Listas:** Visualiza y actualiza tu progreso (episodios, capítulos, puntuación y estado) de tus listas personales.
